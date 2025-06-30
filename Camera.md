@@ -5,7 +5,7 @@ Este arquivo mostra capturas de tela relacionadas ao funcionamento da câmera no
 ---
 
 ### Camera - Nível 1
-![Camera Level 1](Imagens/Imagens/CameraLevel1.png)
+Imagens/Imagens/CameraLevel1.png
 
 ---
 
